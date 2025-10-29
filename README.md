@@ -44,4 +44,4 @@ Me chamo Patrick Assarian da Luz, tenho 19 anos e curso Engenharia de ComputaÃ§Ã
     src="https://github-readme-stats.vercel.app/api?username=PatrickAssarian&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-  ![Snake animation](https://github.com/PatrickAssarian)
+  <img src="https://raw.githubusercontent.com/PatrickAssarian/PatrickAssarian/output/snake.svg" alt="Snake animation" />
