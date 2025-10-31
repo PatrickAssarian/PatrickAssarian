@@ -19,7 +19,7 @@ Me chamo Patrick Assarian da Luz, tenho 19 anos e curso Engenharia de Computaç�
    
   
 </div>
----
+
 
 ### 🤖 Linguagens e Tecnologias
 
