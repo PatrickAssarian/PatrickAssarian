@@ -18,7 +18,6 @@ Me chamo Patrick Assarian da Luz, tenho 19 anos e curso Engenharia de Computa√ß√
 <div style="display: inline_block"><br>
   <img align="center" alt="Patrick-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Patrick-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Patrick-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 
 </div>
   
@@ -31,7 +30,6 @@ Me chamo Patrick Assarian da Luz, tenho 19 anos e curso Engenharia de Computa√ß√
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=PatrickAssarian&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
