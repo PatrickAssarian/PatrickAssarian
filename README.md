@@ -2,7 +2,7 @@
 
 
 
-Me chamo Patrick Assarian da Luz, tenho 20 anos e curso Engenharia de Computação na Universidade Federal De Pelotas (UFPEL)
+Hello! My name is Patrick Assarian da Luz, I am 20 years old, and I am studying Computer Engineering at the Federal University of Pelotas (UFPEL).
 
 
 
@@ -13,7 +13,7 @@ Me chamo Patrick Assarian da Luz, tenho 20 anos e curso Engenharia de Computaç�
 </div>
 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Patrick-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
@@ -24,7 +24,7 @@ Me chamo Patrick Assarian da Luz, tenho 20 anos e curso Engenharia de Computaç�
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
