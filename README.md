@@ -2,7 +2,7 @@
 
 
 
-Me chamo Patrick Assarian da Luz, tenho 19 anos e curso Engenharia de Computação na Universidade Federal De Pelotas (UFPEL)
+Me chamo Patrick Assarian da Luz, tenho 20 anos e curso Engenharia de Computação na Universidade Federal De Pelotas (UFPEL)
 
 
 
