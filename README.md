@@ -25,13 +25,4 @@ Hello! My name is Patrick Assarian da Luz, I am 20 years old, and I am studying 
 <br/>
 
 ### 📊 Statistics
-
-<p>
-  <img 
-    align="left" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=PatrickAssarian&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
   <img src="https://raw.githubusercontent.com/PatrickAssarian/PatrickAssarian/output/snake.svg" alt="Snake animation" />
